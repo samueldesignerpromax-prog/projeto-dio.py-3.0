@@ -1,0 +1,18 @@
+# 🛒 Shopee Cart Simulator
+
+Simulador de carrinho de compras inspirado na Shopee, desenvolvido em Node.js.
+O sistema roda totalmente no terminal.
+
+## 🚀 Funcionalidades
+- Adicionar produtos
+- Remover produtos
+- Atualizar quantidade
+- Cálculo automático de total
+
+## 🛠 Tecnologias
+- Node.js
+- JavaScript
+- Lógica Backend
+
+## ▶️ Como executar
+node index.js
